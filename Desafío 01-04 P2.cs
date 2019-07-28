@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApp5
-{
+namespace ConsoleApp6 { 
     class Program
     {
         static void Main(string[] args)
@@ -32,3 +31,4 @@ namespace ConsoleApp5
         }
     }
 }
+
