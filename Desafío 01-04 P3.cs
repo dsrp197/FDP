@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApp5
+namespace ConsoleApp7
 {
     class Program
     {
@@ -35,7 +35,7 @@ namespace ConsoleApp5
 
             //Usamos sen(a) = y/t & despejamos y
             double y = Math.Sin(a) * t;
-            Console.WriteLine("y =" + y);                                                               
+            Console.WriteLine("y =" + y);
         }
     }
 }
